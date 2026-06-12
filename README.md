@@ -1,2 +1,28 @@
-# XDylan-web.github.io
-Personal Website
+<!DOCTYPE html>
+<html>
+<title>dylanhorton.com</title>
+
+<style>
+body { padding-left: 40px; 
+padding-right: 40px; 
+font-family: Georgia; }
+</style>
+
+<body>
+
+<h1 style="color:black; font-size:400%; font-family:'Georgia';">  dylanhorton.com</h1>
+    
+<p>Linasdasdadasks</p>
+<p>Linasasdjks</p>
+
+<h2>Test</h2>
+
+<a style="color:blue; font-size:200%; font-family:'Georgia'" href="https://www.w3schools.com">Blog >></a>
+
+<p></p>
+
+<a style="color:blue; font-size:200%; font-family:'Georgia'" href="https://www.w3schools.com">Contact >></a>
+    
+    
+</body>
+</html>
